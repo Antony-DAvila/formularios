@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+}
+#site{
+    width: 1024px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 10 auto;
+}
